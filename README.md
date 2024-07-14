@@ -30,3 +30,4 @@ pyTorch:
 Please use the AliCloud disk link to download:https://www.alipan.com/s/eLQbbkzeY2r
 
 Please send a email to our team to get the extraction code：jason1325070309@163.com
+yes
